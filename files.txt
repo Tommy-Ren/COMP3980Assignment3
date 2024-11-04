@@ -1,0 +1,2 @@
+server src/server.c src/copy.c src/open.c include/server.h include/copy.h include/open.h
+client src/client.c src/copy.c src/open.c include/server.h include/copy.h include/open.h
